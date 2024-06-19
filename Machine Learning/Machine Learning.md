@@ -6,9 +6,9 @@ Machine learning is often misunderstood, partly due to its recent successes and 
 
 I want to gain three levels of understanding about Machine Learning.
 
-1.- Be aware of the different types of problems that ML techniques can solve.
-2.- After identifying the appropriate ML technique for a problem, being able to understand how it achieves the desired outcome.
-3.- Know the math of them.
+1. Be aware of the different types of problems that ML techniques can solve.
+2. After identifying the appropriate ML technique for a problem, being able to understand how it achieves the desired outcome.
+3. Know the math of them.
 
 ### Harvard Machine Learning Framework, the *CUBE*
 
