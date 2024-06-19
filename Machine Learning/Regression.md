@@ -8,5 +8,5 @@ To understand regression, consider the types of problems it solves:
 
 Regression involves making predictions for continuous outputs based on given inputs. It's a class of methods used to achieve this goal, not a single technique.
 
-> **Definition from *Undergraduate Fundamentals of Machine Learning***
+> **Definition from *Undergraduate Fundamentals of Machine Learning***:
 > A class of techniques that seeks to make predictions about unknown continuous target variables given observed input variables.
