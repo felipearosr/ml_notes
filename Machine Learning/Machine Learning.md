@@ -8,8 +8,7 @@ I want to gain three levels of understanding about Machine Learning.
 
 1. Be aware of the different types of problems that ML techniques can solve.
 2. After identifying the appropriate ML technique for a problem, being able to understand how it achieves the desired outcome.
-3. Know the math of them.
-
+3. Understand the math behind it.
 ### Harvard Machine Learning Framework, the *CUBE*
 
 <img src="https://github.com/felipearosr/ml_notes/blob/master/0%20Assets/Images/Pasted%20image%2020240618210742.png">
