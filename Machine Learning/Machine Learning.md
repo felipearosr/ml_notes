@@ -12,8 +12,7 @@ I want to gain three levels of understanding about Machine Learning.
 
 ### Harvard Machine Learning Framework, the *CUBE*
 
-![[Pasted image 20240618210742.png]]
-
+<img src="https://github.com/felipearosr/ml_notes/blob/master/0%20Assets/Images/Pasted%20image%2020240618210742.png">
 The Machine Learning Cube is a framework to categorize ML problems and techniques. The cube has three axes:
 
 1. **Output Domain**
