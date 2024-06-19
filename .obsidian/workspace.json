@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "80e1caf2641c0add",
   "lastOpenFiles": [
-    "README.md",
+    "Appendix.md",
     "Machine Learning/Machine Learning.md",
+    "README.md",
     "Untitled.md",
     "0 Assets/Images",
     "0 Assets",
-    "Appendix.md",
     "Machine Learning"
   ]
 }

@@ -5,6 +5,7 @@ Just my notes that I'm taking while I learn machine learning, deep learning, dat
 > [!NOTE]
 > Don't take this repo too seriously please.
 
+As I read some books the structure of this repo will change as I learn more. Right now I know nothing at all.
 ### Table of Contents
 - Maths?
 - Statistics?
