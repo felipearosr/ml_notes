@@ -10,7 +10,7 @@ As I read some books the structure of this repo will change as I learn more. Rig
 - Maths?
 - Statistics?
 - Machine Learning
-	- 
+	- Regression
 - Deep Learning
 - Data Science
 - Data Engineering

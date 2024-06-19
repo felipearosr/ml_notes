@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e9e72af05acb995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "Machine Learning/Regression.md"
               }
             }
           }
@@ -172,17 +184,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92823f75f16a9b49",
+  "active": "6e9e72af05acb995",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Regression.md",
+    "Appendix.md",
+    "README.md",
     "0 Assets/Images/Pasted image 20240618210742.png",
     "Excalidraw/Drawing 2024-06-18 20.39.12.excalidraw.md",
     "0 Assets/Images/Pasted image 20240618210353.png",
     "Excalidraw/Drawing 2024-06-18 21.06.38.excalidraw.md",
-    "Machine Learning/Machine Learning.md",
     "Excalidraw",
-    "README.md",
-    "Appendix.md",
-    "Untitled.md",
     "0 Assets/Images",
     "0 Assets",
     "Machine Learning"
