@@ -1,4 +1,4 @@
-
+# Machine Learning
 ## What is Machine Learning?
 
 Machine learning is often misunderstood, partly due to its recent successes and media hype. It involves using statistical, mathematical, and numerical methods to extract knowledge from data, which can help with summarization, visualization, grouping, or prediction. However, it has its limitations and cannot replace critical thinking and systematic work in data science. Machine learning is a mix of various disciplines, including statistics and mathematics, and this repository provides a summary of its basics and a collection of tools for specific problems.

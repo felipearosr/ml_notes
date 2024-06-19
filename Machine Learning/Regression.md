@@ -1,3 +1,5 @@
+# Regression
+
 A major component of machine learning involves making predictions about a target based on inputs, like predicting an individual's lifetime earnings from demographic data. This chapter focuses on predicting continuous, real numbers, a process known as regression.
 ## Defining the Problem
 
