@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine Learning/Machine Learning.md"
               }
             }
           }
@@ -168,14 +168,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "80e1caf2641c0add",
   "lastOpenFiles": [
-    "Appendix.md",
+    "Pasted image 20240618210742.png",
+    "Excalidraw/Drawing 2024-06-18 20.39.12.excalidraw.md",
+    "0 Assets/Images/Pasted image 20240618210353.png",
+    "Excalidraw/Drawing 2024-06-18 21.06.38.excalidraw.md",
     "Machine Learning/Machine Learning.md",
+    "Excalidraw",
     "README.md",
+    "Appendix.md",
     "Untitled.md",
     "0 Assets/Images",
     "0 Assets",
